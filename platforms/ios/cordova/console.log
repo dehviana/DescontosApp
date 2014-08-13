@@ -1,0 +1,8 @@
+2014-08-13 18:56:02.329 DescontosApp[2339:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 18:56:02.606 DescontosApp[2339:70b] Unlimited access to network resources
+2014-08-13 18:56:06.630 DescontosApp[2339:70b] [CDVTimer][keyboard] 35.116017ms
+2014-08-13 18:56:06.631 DescontosApp[2339:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 18:56:06.632 DescontosApp[2339:70b] [CDVTimer][statusbar] 0.652969ms
+2014-08-13 18:56:06.632 DescontosApp[2339:70b] [CDVTimer][TotalPluginStartup] 37.113011ms
+2014-08-13 18:56:07.442 DescontosApp[2339:70b] Resetting plugins due to page load.
+2014-08-13 18:56:09.907 DescontosApp[2339:70b] Finished load of: file:///Users/andreviana/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D5667626-5CDD-4C18-B55D-27A3B6AFC4D4/DescontosApp.app/www/index.html#/tab/dash
